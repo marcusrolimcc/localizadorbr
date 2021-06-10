@@ -6,3 +6,5 @@ Este tutorial tem o intuito de instruir todo desenvolvedor iniciante criar esse 
 Iniciaremos com a utilização do HTML, para estruturar o site, assim utilizaremos o JavaScript para manipularmos dados e por fim vamos estilizar o site utilizando apenas o BootStrap 4.
 
 É recomendado que tenha conhecimento básico de computação para concluir o desenvolvimento, porém será disponibilizado links de material de apoio para estudar e adquirir o conhecimento necessário para a conclusão do projeto.
+
+Podendo ser acessado em https://www.mynerdlifebr.com.br/localizadorbr/html/localizadorbr.html
